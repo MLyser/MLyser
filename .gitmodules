@@ -1,0 +1,3 @@
+[submodule "MLyser/vendor/spdlog"]
+	path = MLyser/vendor/spdlog
+	url = https://github.com/gabime/spdlog
