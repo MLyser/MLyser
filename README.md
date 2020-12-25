@@ -46,7 +46,6 @@ Buy us a coffee
       or  
 Join our Paterons club  
 
-_Feeling sexy? Join our only fans club_
 
 Follow us on twitter for latest updates.
 
